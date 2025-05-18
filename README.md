@@ -7,24 +7,30 @@
 ---
 
 ## 🛠️ Tech Stack
-- Languages: **C / C++**, **C#**, **Python**
-- Tools: **Visual Studio 2022**, **VS Code**
-- Currently exploring **Unity Engine**
+
+- **Languages**: C / C++, C#, Python  
+- **Tools**: Visual Studio 2022, VS Code  
+- **Currently exploring**: Unity Engine  
+
+### 🔮 Future Plans
+- Web: HTML, CSS, JavaScript, SQL
+- Backend: More C#, .NET  
+
 
 ---
 
 ## 🚀 Projects
 
 ### 🧸 MYTOY
-A simple 2D platformer game made in Unity.  
-My first step into game dev, made with love and bugs ❤️
+A simple 2D platformer game made in Unity.
+My first step into game dev, made with love and bugs ❤️  
+🔗 [Download MYTOY](https://drive.google.com/drive/folders/18bU5A73XO06K9BuOoaagKu1dOgpAExtg?usp=sharing)
 
 ---
 
 ## 🌐 Connect with Me
 
 - 💬 Discord: `younes._.idk`
-- 🧪 Devshroom Discord: [discord](https://discord.gg/xvkTx97jaT)
 - 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/younes-lemmouchi-42975432b/)
 
 ---
