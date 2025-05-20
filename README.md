@@ -24,7 +24,7 @@
 ### 🧸 MYTOY
 A simple 2D platformer game made in Unity.
 My first step into game dev, made with love and bugs ❤️  
-🔗 [Download MYTOY](https://drive.google.com/drive/folders/18bU5A73XO06K9BuOoaagKu1dOgpAExtg?usp=sharing)
+🔗 [Download MYTOY](https://younesidk.itch.io/mytoy)
 
 ---
 
