@@ -10,7 +10,7 @@
 
 - **Languages**: C / C++, C#, Python  
 - **Tools**: Visual Studio 2022, VS Code  
-- **Currently exploring**: Unity Engine  
+- **Currently exploring**: C# .NET
 
 ### 🔮 Future Plans
 - Web: HTML, CSS, JavaScript, SQL
