@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C / C++, C#, Python  
+- **Languages**: C / C++, C#, Python , HTML , CSS , JavaScript
 - **Tools**: Visual Studio 2022, VS Code  
 - **Currently exploring**: C# .NET
 
@@ -25,6 +25,8 @@
 A simple 2D platformer game made in Unity.
 My first step into game dev, made with love and bugs ❤️  
 🔗 [Download MYTOY](https://younesidk.itch.io/mytoy)
+
+feel free to check my Repositories for all my projects
 
 ---
 
