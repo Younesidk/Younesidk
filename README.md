@@ -10,7 +10,7 @@
 
 - **Languages**: C / C++, C#, Python , HTML , CSS , JavaScript
 - **Tools**: Visual Studio 2022, VS Code  
-- **Currently exploring**: C# .NET
+- **Currently exploring**: .NET ASP.NET SQL 
 
 ### 🔮 Future Plans
 - Web: HTML, CSS, JavaScript, SQL
